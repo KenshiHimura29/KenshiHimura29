@@ -57,7 +57,7 @@ I'm always open to collaborating on exciting projects or contributing to open-so
 
 ## 📊 GitHub Stats
 
-![Ken Majas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenMajas&show_icons=true&theme=dark)
+![Ken Majas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenshiHimura29&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenMajas&layout=compact&theme=dark)
 
