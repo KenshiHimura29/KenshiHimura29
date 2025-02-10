@@ -1,16 +1,21 @@
-## Hi there 👋
+### Halo, saya Ken Majas Islamy! 👋
 
-<!--
-**KenshiHimura29/KenshiHimura29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pelajar di **SMKN 8 Malang**, jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya memiliki minat dalam coding, pemecahan masalah, dan selalu ingin belajar teknologi baru.
 
-Here are some ideas to get you started:
+### 🛠 Keahlian Teknologi:
+- 💻 Pemrograman: Python, JavaScript, Java
+- 🏗️ Pengembangan Web: HTML, CSS, React
+- 🛢️ Basis Data: MySQL, Firebase
+- 🔧 Alat: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya:
+- 🔭 Sedang belajar **Pengembangan Full-Stack**
+- 🌱 Menjelajahi **Pengembangan Aplikasi Mobile**
+- 💡 Tertarik pada **Machine Learning & AI**
+- 🤝 Terbuka untuk kolaborasi dalam **proyek menarik**
+
+### 📫 Hubungi Saya:
+- 📸 Instagram: nakayae10
+- 📩 Email: anjayym639@gmail.com
+
+💻 Mari membangun sesuatu yang luar biasa bersama! 🚀
