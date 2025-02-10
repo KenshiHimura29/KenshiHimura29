@@ -3,6 +3,7 @@
 Saya seorang pelajar di **SMKN 8 Malang**, jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya memiliki minat dalam coding, pemecahan masalah, dan selalu ingin belajar teknologi baru.
 
 ### 🛠 Keahlian Teknologi:
+- 📱 Aplikasi Mobile: Dart, Flutter
 - 💻 Pemrograman: Python, JavaScript, Java
 - 🏗️ Pengembangan Web: HTML, CSS, React
 - 🛢️ Basis Data: MySQL, Firebase
