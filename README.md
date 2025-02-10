@@ -77,6 +77,5 @@ Saya selalu terbuka untuk berkolaborasi dalam proyek menarik atau berkontribusi 
 - 📩 Email: [anjayym639@gmail.com](mailto:anjayym639@gmail.com)
 
  ## 📱 Media Sosial
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) **nakayae10**  
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nakayae10?igsh=MXFjcDlvdTB1OW10Yw==)
 💻 Mari bangun sesuatu yang luar biasa bersama! 🚀
