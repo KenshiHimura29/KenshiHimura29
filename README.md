@@ -1,4 +1,4 @@
-### Halo, saya KenshiHimura29 Islamy! 👋
+### Halo, saya Ken Majas Islamy! 👋
 
 Saya adalah seorang siswa di **SMKN 8 Malang**, jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya memiliki minat besar dalam dunia pemrograman, pemecahan masalah, dan selalu antusias untuk mempelajari teknologi baru.
 
