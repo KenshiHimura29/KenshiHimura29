@@ -59,7 +59,7 @@ I'm always open to collaborating on exciting projects or contributing to open-so
 
 ![Ken Majas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KenshiHimura29&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenMajas&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenshiHimura29&layout=compact&theme=dark)
 
 ---
 
